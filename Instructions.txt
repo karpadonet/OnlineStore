@@ -1,0 +1,8 @@
+start
+purchase###USB cable sync charger###1
+purchase###Port Fast Quick Charge QC 3.0 USB###20
+recall###NEW Type-C IOS Micro 3A###2
+price###NEW Type-C IOS Micro 3A###USD
+price###Black US 4 Port Fst Quick Charge###EUR
+price###Adapter for iphone to 3.5mm###NOK
+end
